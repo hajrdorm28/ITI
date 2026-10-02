@@ -1,0 +1,14 @@
+C:\Users\it shop\source\repos\Lab5\Lab5\bin\Debug\net10.0\Lab5.exe
+C:\Users\it shop\source\repos\Lab5\Lab5\bin\Debug\net10.0\Lab5.deps.json
+C:\Users\it shop\source\repos\Lab5\Lab5\bin\Debug\net10.0\Lab5.runtimeconfig.json
+C:\Users\it shop\source\repos\Lab5\Lab5\bin\Debug\net10.0\Lab5.dll
+C:\Users\it shop\source\repos\Lab5\Lab5\bin\Debug\net10.0\Lab5.pdb
+C:\Users\it shop\source\repos\Lab5\Lab5\obj\Debug\net10.0\Lab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\it shop\source\repos\Lab5\Lab5\obj\Debug\net10.0\Lab5.AssemblyInfoInputs.cache
+C:\Users\it shop\source\repos\Lab5\Lab5\obj\Debug\net10.0\Lab5.AssemblyInfo.cs
+C:\Users\it shop\source\repos\Lab5\Lab5\obj\Debug\net10.0\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\it shop\source\repos\Lab5\Lab5\obj\Debug\net10.0\Lab5.dll
+C:\Users\it shop\source\repos\Lab5\Lab5\obj\Debug\net10.0\refint\Lab5.dll
+C:\Users\it shop\source\repos\Lab5\Lab5\obj\Debug\net10.0\Lab5.pdb
+C:\Users\it shop\source\repos\Lab5\Lab5\obj\Debug\net10.0\Lab5.genruntimeconfig.cache
+C:\Users\it shop\source\repos\Lab5\Lab5\obj\Debug\net10.0\ref\Lab5.dll
