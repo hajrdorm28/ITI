@@ -1,0 +1,89 @@
+@model EmployeeListViewModel
+@{
+    ViewData["Title"] = "Employees";
+}
+
+<h2>Employees</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-success">Add Employee</a>
+</p>
+
+<form asp-action="Index" method="get" class="row g-2 mb-3 align-items-end">
+    <div class="col-auto">
+        <label class="form-label mb-0">Search by name</label>
+        <input type="text" name="search" value="@Model.SearchTerm" class="form-control" placeholder="e.g. Ahmed" />
+    </div>
+    <div class="col-auto">
+        <label class="form-label mb-0">Page size</label>
+        <select name="pageSize" class="form-control" onchange="this.form.submit()">
+            <option value="5" selected="@(Model.PageSize == 5)">5</option>
+            <option value="10" selected="@(Model.PageSize == 10)">10</option>
+            <option value="20" selected="@(Model.PageSize == 20)">20</option>
+        </select>
+    </div>
+    <div class="col-auto">
+        <button type="submit" class="btn btn-outline-primary">Search</button>
+        <a asp-action="Index" asp-route-search="" class="btn btn-outline-secondary">Clear</a>
+    </div>
+</form>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Salary</th>
+            <th>Job Title</th>
+            <th>Department</th>
+            <th style="width: 220px;">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+    @if (Model.Employees.Count == 0)
+    {
+        <tr>
+            <td colspan="7" class="text-center">No employees found.</td>
+        </tr>
+    }
+    else
+    {
+        @foreach (var e in Model.Employees)
+        {
+            <tr>
+                <td>@e.Id</td>
+                <td>@e.Name</td>
+                <td>@e.Age</td>
+                <td>@e.Salary.ToString("N2")</td>
+                <td>@e.JobTitle</td>
+                <td>@e.DepartmentName</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@e.Id" class="btn btn-sm btn-primary">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@e.Id" class="btn btn-sm btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    }
+    </tbody>
+</table>
+
+@if (Model.TotalPages > 1)
+{
+    <nav>
+        <ul class="pagination">
+        @for (var p = 1; p <= Model.TotalPages; p++)
+        {
+            <li class="page-item @(p == Model.PageNumber ? "active" : "")">
+                <a class="page-link"
+                   asp-action="Index"
+                   asp-route-page="@p"
+                   asp-route-search="@Model.SearchTerm"
+                   asp-route-pageSize="@Model.PageSize">@p</a>
+            </li>
+        }
+        </ul>
+    </nav>
+}
+
+<p class="text-muted">Showing @Model.Employees.Count of @Model.TotalCount employee(s).</p>

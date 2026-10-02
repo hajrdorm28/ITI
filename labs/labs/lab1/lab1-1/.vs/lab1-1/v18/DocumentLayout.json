@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI\\.Net\\labs\\labs\\lab1\\lab1-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1935F892-A22C-476F-84F8-3D2007AC8E72}|lab1-1\\lab1-1.csproj|d:\\iti\\.net\\labs\\labs\\lab1\\lab1-1\\lab1-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1935F892-A22C-476F-84F8-3D2007AC8E72}|lab1-1\\lab1-1.csproj|solutionrelative:lab1-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1935F892-A22C-476F-84F8-3D2007AC8E72}|lab1-1\\lab1-1.csproj|d:\\iti\\.net\\labs\\labs\\lab1\\lab1-1\\lab1-1\\thermostat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1935F892-A22C-476F-84F8-3D2007AC8E72}|lab1-1\\lab1-1.csproj|solutionrelative:lab1-1\\thermostat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1935F892-A22C-476F-84F8-3D2007AC8E72}|lab1-1\\lab1-1.csproj|d:\\iti\\.net\\labs\\labs\\lab1\\lab1-1\\lab1-1\\temperaturedisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1935F892-A22C-476F-84F8-3D2007AC8E72}|lab1-1\\lab1-1.csproj|solutionrelative:lab1-1\\temperaturedisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TemperatureDisplay.cs",
+              "DocumentMoniker": "D:\\ITI\\.Net\\labs\\labs\\lab1\\lab1-1\\lab1-1\\TemperatureDisplay.cs",
+              "RelativeDocumentMoniker": "lab1-1\\TemperatureDisplay.cs",
+              "ToolTip": "D:\\ITI\\.Net\\labs\\labs\\lab1\\lab1-1\\lab1-1\\TemperatureDisplay.cs",
+              "RelativeToolTip": "lab1-1\\TemperatureDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T02:21:15.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Thermostat.cs",
+              "DocumentMoniker": "D:\\ITI\\.Net\\labs\\labs\\lab1\\lab1-1\\lab1-1\\Thermostat.cs",
+              "RelativeDocumentMoniker": "lab1-1\\Thermostat.cs",
+              "ToolTip": "D:\\ITI\\.Net\\labs\\labs\\lab1\\lab1-1\\lab1-1\\Thermostat.cs",
+              "RelativeToolTip": "lab1-1\\Thermostat.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T02:21:15.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI\\.Net\\labs\\labs\\lab1\\lab1-1\\lab1-1\\Program.cs",
+              "RelativeDocumentMoniker": "lab1-1\\Program.cs",
+              "ToolTip": "D:\\ITI\\.Net\\labs\\labs\\lab1\\lab1-1\\lab1-1\\Program.cs",
+              "RelativeToolTip": "lab1-1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T02:21:15.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

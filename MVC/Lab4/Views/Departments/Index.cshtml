@@ -1,0 +1,61 @@
+@model DepartmentListViewModel
+@{
+    ViewData["Title"] = "Departments";
+}
+
+<h2>Departments</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-success">Add Department</a>
+</p>
+
+@if (Model.RecentlyVisited.Any())
+{
+    <div class="alert alert-secondary">
+        <strong>Recently visited:</strong> @string.Join(" &nbsp;•&nbsp; ", Model.RecentlyVisited)
+    </div>
+}
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Department Name</th>
+            <th>Manager Name</th>
+            <th># Employees</th>
+            <th style="width: 340px;">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+    @if (Model.Departments.Count == 0)
+    {
+        <tr>
+            <td colspan="5" class="text-center">No departments found.</td>
+        </tr>
+    }
+    else
+    {
+        @foreach (var d in Model.Departments)
+        {
+            var isLastVisited = Model.LastVisitedDepartmentId == d.Id;
+            <tr class="@(isLastVisited ? "table-warning" : "")">
+                <td>@d.Id</td>
+                <td>
+                    @d.Name
+                    @if (isLastVisited)
+                    {
+                        <span class="badge bg-warning text-dark ms-1">Last visited</span>
+                    }
+                </td>
+                <td>@d.ManagerName</td>
+                <td>@d.EmployeeCount</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@d.Id" class="btn btn-sm btn-primary">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@d.Id" class="btn btn-sm btn-danger">Delete</a>
+                    <a asp-action="Employees" asp-route-id="@d.Id" class="btn btn-sm btn-info">Show Employees</a>
+                </td>
+            </tr>
+        }
+    }
+    </tbody>
+</table>

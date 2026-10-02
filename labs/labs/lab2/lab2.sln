@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab2", "lab2\lab2.csproj", "{8E881153-D048-49DE-98A8-3E7D5B4FFBE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infra", "..\..\Sessions\EFDay02\Infra\Infra.csproj", "{C8E8805C-B47C-A9B2-05AA-1B4121FD32A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E881153-D048-49DE-98A8-3E7D5B4FFBE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E881153-D048-49DE-98A8-3E7D5B4FFBE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E881153-D048-49DE-98A8-3E7D5B4FFBE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E881153-D048-49DE-98A8-3E7D5B4FFBE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8E8805C-B47C-A9B2-05AA-1B4121FD32A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8E8805C-B47C-A9B2-05AA-1B4121FD32A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8E8805C-B47C-A9B2-05AA-1B4121FD32A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8E8805C-B47C-A9B2-05AA-1B4121FD32A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79647FAE-5B2F-4B6E-96EC-892968F29950}
+	EndGlobalSection
+EndGlobal

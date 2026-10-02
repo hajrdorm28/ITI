@@ -1,0 +1,28 @@
+@model RememberNameViewModel
+@{
+    ViewData["Title"] = "Remember My Name";
+}
+
+<h2>Remember My Name</h2>
+<p class="text-muted">Your name will be saved in a cookie and used to greet you on the Home page.</p>
+
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="RememberName" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group mb-3">
+                <label asp-for="UserName" class="form-label"></label>
+                <input asp-for="UserName" class="form-control" autofocus />
+                <span asp-validation-for="UserName" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Save</button>
+            <a asp-controller="Home" asp-action="Index" class="btn btn-secondary">Cancel</a>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}

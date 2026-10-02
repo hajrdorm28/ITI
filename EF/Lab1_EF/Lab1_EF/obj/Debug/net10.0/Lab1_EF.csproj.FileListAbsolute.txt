@@ -1,0 +1,14 @@
+C:\Users\it shop\source\repos\Lab1_EF\Lab1_EF\obj\Debug\net10.0\Lab1_EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\it shop\source\repos\Lab1_EF\Lab1_EF\obj\Debug\net10.0\Lab1_EF.AssemblyInfoInputs.cache
+C:\Users\it shop\source\repos\Lab1_EF\Lab1_EF\obj\Debug\net10.0\Lab1_EF.AssemblyInfo.cs
+C:\Users\it shop\source\repos\Lab1_EF\Lab1_EF\obj\Debug\net10.0\Lab1_EF.csproj.CoreCompileInputs.cache
+C:\Users\it shop\source\repos\Lab1_EF\Lab1_EF\bin\Debug\net10.0\Lab1_EF.exe
+C:\Users\it shop\source\repos\Lab1_EF\Lab1_EF\bin\Debug\net10.0\Lab1_EF.deps.json
+C:\Users\it shop\source\repos\Lab1_EF\Lab1_EF\bin\Debug\net10.0\Lab1_EF.runtimeconfig.json
+C:\Users\it shop\source\repos\Lab1_EF\Lab1_EF\bin\Debug\net10.0\Lab1_EF.dll
+C:\Users\it shop\source\repos\Lab1_EF\Lab1_EF\bin\Debug\net10.0\Lab1_EF.pdb
+C:\Users\it shop\source\repos\Lab1_EF\Lab1_EF\obj\Debug\net10.0\Lab1_EF.dll
+C:\Users\it shop\source\repos\Lab1_EF\Lab1_EF\obj\Debug\net10.0\refint\Lab1_EF.dll
+C:\Users\it shop\source\repos\Lab1_EF\Lab1_EF\obj\Debug\net10.0\Lab1_EF.pdb
+C:\Users\it shop\source\repos\Lab1_EF\Lab1_EF\obj\Debug\net10.0\Lab1_EF.genruntimeconfig.cache
+C:\Users\it shop\source\repos\Lab1_EF\Lab1_EF\obj\Debug\net10.0\ref\Lab1_EF.dll

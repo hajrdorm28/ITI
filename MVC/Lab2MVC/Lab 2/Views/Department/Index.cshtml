@@ -1,0 +1,38 @@
+﻿@model IEnumerable<Department>
+
+@{
+    ViewData["Title"] = "Departments";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h2 class="mb-0">Departments</h2>
+    <a asp-controller="Department" asp-action="Add" class="btn btn-primary">Add Department</a>
+</div>
+
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>Id</th>
+            <th>Department Name</th>
+            <th>Manager Name</th>
+            <th>Number of Employees</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var department in Model)
+        {
+            <tr>
+                <td>@department.Id</td>
+                <td>@department.DepartmentName</td>
+                <td>@department.ManagerName</td>
+                <td>@(department.Employees?.Count ?? 0)</td>
+                <td>
+                    <a asp-controller="Department" asp-action="Edit" asp-route-id="@department.Id" class="btn btn-sm btn-warning">Edit</a>
+                    <a asp-controller="Department" asp-action="Delete" asp-route-id="@department.Id" class="btn btn-sm btn-danger">Delete</a>
+                    <a asp-controller="Department" asp-action="GetEmployees" asp-route-id="@department.Id" class="btn btn-sm btn-info">Show Employees</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

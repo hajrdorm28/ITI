@@ -1,0 +1,15 @@
+C:\Users\Tasni\OneDrive\Documents\Programming\VS\.net\iti c# 2025\lab7\lab7_1\lab7_1\bin\Debug\net8.0\lab7_1.exe
+C:\Users\Tasni\OneDrive\Documents\Programming\VS\.net\iti c# 2025\lab7\lab7_1\lab7_1\bin\Debug\net8.0\lab7_1.deps.json
+C:\Users\Tasni\OneDrive\Documents\Programming\VS\.net\iti c# 2025\lab7\lab7_1\lab7_1\bin\Debug\net8.0\lab7_1.runtimeconfig.json
+C:\Users\Tasni\OneDrive\Documents\Programming\VS\.net\iti c# 2025\lab7\lab7_1\lab7_1\bin\Debug\net8.0\lab7_1.dll
+C:\Users\Tasni\OneDrive\Documents\Programming\VS\.net\iti c# 2025\lab7\lab7_1\lab7_1\bin\Debug\net8.0\lab7_1.pdb
+C:\Users\Tasni\OneDrive\Documents\Programming\VS\.net\iti c# 2025\lab7\lab7_1\lab7_1\obj\Debug\net8.0\lab7_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tasni\OneDrive\Documents\Programming\VS\.net\iti c# 2025\lab7\lab7_1\lab7_1\obj\Debug\net8.0\lab7_1.AssemblyInfoInputs.cache
+C:\Users\Tasni\OneDrive\Documents\Programming\VS\.net\iti c# 2025\lab7\lab7_1\lab7_1\obj\Debug\net8.0\lab7_1.AssemblyInfo.cs
+C:\Users\Tasni\OneDrive\Documents\Programming\VS\.net\iti c# 2025\lab7\lab7_1\lab7_1\obj\Debug\net8.0\lab7_1.csproj.CoreCompileInputs.cache
+C:\Users\Tasni\OneDrive\Documents\Programming\VS\.net\iti c# 2025\lab7\lab7_1\lab7_1\obj\Debug\net8.0\lab7_1.sourcelink.json
+C:\Users\Tasni\OneDrive\Documents\Programming\VS\.net\iti c# 2025\lab7\lab7_1\lab7_1\obj\Debug\net8.0\lab7_1.dll
+C:\Users\Tasni\OneDrive\Documents\Programming\VS\.net\iti c# 2025\lab7\lab7_1\lab7_1\obj\Debug\net8.0\refint\lab7_1.dll
+C:\Users\Tasni\OneDrive\Documents\Programming\VS\.net\iti c# 2025\lab7\lab7_1\lab7_1\obj\Debug\net8.0\lab7_1.pdb
+C:\Users\Tasni\OneDrive\Documents\Programming\VS\.net\iti c# 2025\lab7\lab7_1\lab7_1\obj\Debug\net8.0\lab7_1.genruntimeconfig.cache
+C:\Users\Tasni\OneDrive\Documents\Programming\VS\.net\iti c# 2025\lab7\lab7_1\lab7_1\obj\Debug\net8.0\ref\lab7_1.dll

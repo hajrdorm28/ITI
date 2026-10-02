@@ -1,0 +1,15 @@
+C:\Users\Tasni\OneDrive\Documents\Programming\VS\.net\iti c#\lab4-4\lab4-4\bin\Debug\net8.0\lab4-4.exe
+C:\Users\Tasni\OneDrive\Documents\Programming\VS\.net\iti c#\lab4-4\lab4-4\bin\Debug\net8.0\lab4-4.deps.json
+C:\Users\Tasni\OneDrive\Documents\Programming\VS\.net\iti c#\lab4-4\lab4-4\bin\Debug\net8.0\lab4-4.runtimeconfig.json
+C:\Users\Tasni\OneDrive\Documents\Programming\VS\.net\iti c#\lab4-4\lab4-4\bin\Debug\net8.0\lab4-4.dll
+C:\Users\Tasni\OneDrive\Documents\Programming\VS\.net\iti c#\lab4-4\lab4-4\bin\Debug\net8.0\lab4-4.pdb
+C:\Users\Tasni\OneDrive\Documents\Programming\VS\.net\iti c#\lab4-4\lab4-4\obj\Debug\net8.0\lab4-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tasni\OneDrive\Documents\Programming\VS\.net\iti c#\lab4-4\lab4-4\obj\Debug\net8.0\lab4-4.AssemblyInfoInputs.cache
+C:\Users\Tasni\OneDrive\Documents\Programming\VS\.net\iti c#\lab4-4\lab4-4\obj\Debug\net8.0\lab4-4.AssemblyInfo.cs
+C:\Users\Tasni\OneDrive\Documents\Programming\VS\.net\iti c#\lab4-4\lab4-4\obj\Debug\net8.0\lab4-4.csproj.CoreCompileInputs.cache
+C:\Users\Tasni\OneDrive\Documents\Programming\VS\.net\iti c#\lab4-4\lab4-4\obj\Debug\net8.0\lab4-4.sourcelink.json
+C:\Users\Tasni\OneDrive\Documents\Programming\VS\.net\iti c#\lab4-4\lab4-4\obj\Debug\net8.0\lab4-4.dll
+C:\Users\Tasni\OneDrive\Documents\Programming\VS\.net\iti c#\lab4-4\lab4-4\obj\Debug\net8.0\refint\lab4-4.dll
+C:\Users\Tasni\OneDrive\Documents\Programming\VS\.net\iti c#\lab4-4\lab4-4\obj\Debug\net8.0\lab4-4.pdb
+C:\Users\Tasni\OneDrive\Documents\Programming\VS\.net\iti c#\lab4-4\lab4-4\obj\Debug\net8.0\lab4-4.genruntimeconfig.cache
+C:\Users\Tasni\OneDrive\Documents\Programming\VS\.net\iti c#\lab4-4\lab4-4\obj\Debug\net8.0\ref\lab4-4.dll

@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\lab1\\lab1-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1935F892-A22C-476F-84F8-3D2007AC8E72}|lab1-1\\lab1-1.csproj|c:\\users\\tasni\\onedrive\\documents\\programming\\vs\\.net\\ef\\lab1\\lab1-1\\lab1-1\\temperaturedisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1935F892-A22C-476F-84F8-3D2007AC8E72}|lab1-1\\lab1-1.csproj|solutionrelative:lab1-1\\temperaturedisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1935F892-A22C-476F-84F8-3D2007AC8E72}|lab1-1\\lab1-1.csproj|c:\\users\\tasni\\onedrive\\documents\\programming\\vs\\.net\\ef\\lab1\\lab1-1\\lab1-1\\thermostat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1935F892-A22C-476F-84F8-3D2007AC8E72}|lab1-1\\lab1-1.csproj|solutionrelative:lab1-1\\thermostat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1935F892-A22C-476F-84F8-3D2007AC8E72}|lab1-1\\lab1-1.csproj|c:\\users\\tasni\\onedrive\\documents\\programming\\vs\\.net\\ef\\lab1\\lab1-1\\lab1-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1935F892-A22C-476F-84F8-3D2007AC8E72}|lab1-1\\lab1-1.csproj|solutionrelative:lab1-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TemperatureDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\lab1\\lab1-1\\lab1-1\\TemperatureDisplay.cs",
+              "RelativeDocumentMoniker": "lab1-1\\TemperatureDisplay.cs",
+              "ToolTip": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\lab1\\lab1-1\\lab1-1\\TemperatureDisplay.cs",
+              "RelativeToolTip": "lab1-1\\TemperatureDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T20:58:44.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Thermostat.cs",
+              "DocumentMoniker": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\lab1\\lab1-1\\lab1-1\\Thermostat.cs",
+              "RelativeDocumentMoniker": "lab1-1\\Thermostat.cs",
+              "ToolTip": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\lab1\\lab1-1\\lab1-1\\Thermostat.cs",
+              "RelativeToolTip": "lab1-1\\Thermostat.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T20:57:15.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\lab1\\lab1-1\\lab1-1\\Program.cs",
+              "RelativeDocumentMoniker": "lab1-1\\Program.cs",
+              "ToolTip": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\lab1\\lab1-1\\lab1-1\\Program.cs",
+              "RelativeToolTip": "lab1-1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T20:49:33.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\labs\\lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5CC77CC-E9CC-4096-8B4F-B94E117A4947}|lab3\\lab3.csproj|c:\\users\\tasni\\onedrive\\documents\\programming\\vs\\.net\\ef\\labs\\lab3\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5CC77CC-E9CC-4096-8B4F-B94E117A4947}|lab3\\lab3.csproj|solutionrelative:lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5CC77CC-E9CC-4096-8B4F-B94E117A4947}|lab3\\lab3.csproj|c:\\users\\tasni\\onedrive\\documents\\programming\\vs\\.net\\ef\\labs\\lab3\\lab3\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5CC77CC-E9CC-4096-8B4F-B94E117A4947}|lab3\\lab3.csproj|solutionrelative:lab3\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5CC77CC-E9CC-4096-8B4F-B94E117A4947}|lab3\\lab3.csproj|c:\\users\\tasni\\onedrive\\documents\\programming\\vs\\.net\\ef\\labs\\lab3\\lab3\\migrations\\20250908021225_removeoldcustomerseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5CC77CC-E9CC-4096-8B4F-B94E117A4947}|lab3\\lab3.csproj|solutionrelative:lab3\\migrations\\20250908021225_removeoldcustomerseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5CC77CC-E9CC-4096-8B4F-B94E117A4947}|lab3\\lab3.csproj|c:\\users\\tasni\\onedrive\\documents\\programming\\vs\\.net\\ef\\labs\\lab3\\lab3\\data\\configrations\\customerconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5CC77CC-E9CC-4096-8B4F-B94E117A4947}|lab3\\lab3.csproj|solutionrelative:lab3\\data\\configrations\\customerconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5CC77CC-E9CC-4096-8B4F-B94E117A4947}|lab3\\lab3.csproj|c:\\users\\tasni\\onedrive\\documents\\programming\\vs\\.net\\ef\\labs\\lab3\\lab3\\data\\configrations\\orderitemconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5CC77CC-E9CC-4096-8B4F-B94E117A4947}|lab3\\lab3.csproj|solutionrelative:lab3\\data\\configrations\\orderitemconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5CC77CC-E9CC-4096-8B4F-B94E117A4947}|lab3\\lab3.csproj|c:\\users\\tasni\\onedrive\\documents\\programming\\vs\\.net\\ef\\labs\\lab3\\lab3\\data\\configrations\\orderconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5CC77CC-E9CC-4096-8B4F-B94E117A4947}|lab3\\lab3.csproj|solutionrelative:lab3\\data\\configrations\\orderconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5CC77CC-E9CC-4096-8B4F-B94E117A4947}|lab3\\lab3.csproj|c:\\users\\tasni\\onedrive\\documents\\programming\\vs\\.net\\ef\\labs\\lab3\\lab3\\data\\configrations\\productconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5CC77CC-E9CC-4096-8B4F-B94E117A4947}|lab3\\lab3.csproj|solutionrelative:lab3\\data\\configrations\\productconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5CC77CC-E9CC-4096-8B4F-B94E117A4947}|lab3\\lab3.csproj|c:\\users\\tasni\\onedrive\\documents\\programming\\vs\\.net\\ef\\labs\\lab3\\lab3\\data\\configrations\\categoriesconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5CC77CC-E9CC-4096-8B4F-B94E117A4947}|lab3\\lab3.csproj|solutionrelative:lab3\\data\\configrations\\categoriesconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5CC77CC-E9CC-4096-8B4F-B94E117A4947}|lab3\\lab3.csproj|c:\\users\\tasni\\onedrive\\documents\\programming\\vs\\.net\\ef\\labs\\lab3\\lab3\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5CC77CC-E9CC-4096-8B4F-B94E117A4947}|lab3\\lab3.csproj|solutionrelative:lab3\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5CC77CC-E9CC-4096-8B4F-B94E117A4947}|lab3\\lab3.csproj|c:\\users\\tasni\\onedrive\\documents\\programming\\vs\\.net\\ef\\labs\\lab3\\lab3\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5CC77CC-E9CC-4096-8B4F-B94E117A4947}|lab3\\lab3.csproj|solutionrelative:lab3\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5CC77CC-E9CC-4096-8B4F-B94E117A4947}|lab3\\lab3.csproj|c:\\users\\tasni\\onedrive\\documents\\programming\\vs\\.net\\ef\\labs\\lab3\\lab3\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5CC77CC-E9CC-4096-8B4F-B94E117A4947}|lab3\\lab3.csproj|solutionrelative:lab3\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5CC77CC-E9CC-4096-8B4F-B94E117A4947}|lab3\\lab3.csproj|c:\\users\\tasni\\onedrive\\documents\\programming\\vs\\.net\\ef\\labs\\lab3\\lab3\\entities\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5CC77CC-E9CC-4096-8B4F-B94E117A4947}|lab3\\lab3.csproj|solutionrelative:lab3\\entities\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5CC77CC-E9CC-4096-8B4F-B94E117A4947}|lab3\\lab3.csproj|c:\\users\\tasni\\onedrive\\documents\\programming\\vs\\.net\\ef\\labs\\lab3\\lab3\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5CC77CC-E9CC-4096-8B4F-B94E117A4947}|lab3\\lab3.csproj|solutionrelative:lab3\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5CC77CC-E9CC-4096-8B4F-B94E117A4947}|lab3\\lab3.csproj|c:\\users\\tasni\\onedrive\\documents\\programming\\vs\\.net\\ef\\labs\\lab3\\lab3\\migrations\\20250908020315_fixorderdateproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5CC77CC-E9CC-4096-8B4F-B94E117A4947}|lab3\\lab3.csproj|solutionrelative:lab3\\migrations\\20250908020315_fixorderdateproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250908021225_RemoveOldCustomerSeed.cs",
+              "DocumentMoniker": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\labs\\lab3\\lab3\\Migrations\\20250908021225_RemoveOldCustomerSeed.cs",
+              "RelativeDocumentMoniker": "lab3\\Migrations\\20250908021225_RemoveOldCustomerSeed.cs",
+              "ToolTip": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\labs\\lab3\\lab3\\Migrations\\20250908021225_RemoveOldCustomerSeed.cs",
+              "RelativeToolTip": "lab3\\Migrations\\20250908021225_RemoveOldCustomerSeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T02:12:26.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250908020315_FixOrderDateProperty.cs",
+              "DocumentMoniker": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\labs\\lab3\\lab3\\Migrations\\20250908020315_FixOrderDateProperty.cs",
+              "RelativeDocumentMoniker": "lab3\\Migrations\\20250908020315_FixOrderDateProperty.cs",
+              "ToolTip": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\labs\\lab3\\lab3\\Migrations\\20250908020315_FixOrderDateProperty.cs",
+              "RelativeToolTip": "lab3\\Migrations\\20250908020315_FixOrderDateProperty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T02:03:15.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderItemConfigration.cs",
+              "DocumentMoniker": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\labs\\lab3\\lab3\\Data\\Configrations\\OrderItemConfigration.cs",
+              "RelativeDocumentMoniker": "lab3\\Data\\Configrations\\OrderItemConfigration.cs",
+              "ToolTip": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\labs\\lab3\\lab3\\Data\\Configrations\\OrderItemConfigration.cs",
+              "RelativeToolTip": "lab3\\Data\\Configrations\\OrderItemConfigration.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T00:20:44.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoriesConfigration.cs",
+              "DocumentMoniker": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\labs\\lab3\\lab3\\Data\\Configrations\\CategoriesConfigration.cs",
+              "RelativeDocumentMoniker": "lab3\\Data\\Configrations\\CategoriesConfigration.cs",
+              "ToolTip": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\labs\\lab3\\lab3\\Data\\Configrations\\CategoriesConfigration.cs",
+              "RelativeToolTip": "lab3\\Data\\Configrations\\CategoriesConfigration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T00:53:08.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductConfigration.cs",
+              "DocumentMoniker": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\labs\\lab3\\lab3\\Data\\Configrations\\ProductConfigration.cs",
+              "RelativeDocumentMoniker": "lab3\\Data\\Configrations\\ProductConfigration.cs",
+              "ToolTip": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\labs\\lab3\\lab3\\Data\\Configrations\\ProductConfigration.cs",
+              "RelativeToolTip": "lab3\\Data\\Configrations\\ProductConfigration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wBkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T00:51:48.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderConfigration.cs",
+              "DocumentMoniker": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\labs\\lab3\\lab3\\Data\\Configrations\\OrderConfigration.cs",
+              "RelativeDocumentMoniker": "lab3\\Data\\Configrations\\OrderConfigration.cs",
+              "ToolTip": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\labs\\lab3\\lab3\\Data\\Configrations\\OrderConfigration.cs",
+              "RelativeToolTip": "lab3\\Data\\Configrations\\OrderConfigration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T00:52:10.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerConfigration.cs",
+              "DocumentMoniker": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\labs\\lab3\\lab3\\Data\\Configrations\\CustomerConfigration.cs",
+              "RelativeDocumentMoniker": "lab3\\Data\\Configrations\\CustomerConfigration.cs",
+              "ToolTip": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\labs\\lab3\\lab3\\Data\\Configrations\\CustomerConfigration.cs",
+              "RelativeToolTip": "lab3\\Data\\Configrations\\CustomerConfigration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T00:52:37.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\labs\\lab3\\lab3\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "lab3\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\labs\\lab3\\lab3\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "lab3\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T22:02:09.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\labs\\lab3\\lab3\\Entities\\Categories.cs",
+              "RelativeDocumentMoniker": "lab3\\Entities\\Categories.cs",
+              "ToolTip": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\labs\\lab3\\lab3\\Entities\\Categories.cs",
+              "RelativeToolTip": "lab3\\Entities\\Categories.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T22:01:50.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\labs\\lab3\\lab3\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "lab3\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\labs\\lab3\\lab3\\Entities\\Product.cs",
+              "RelativeToolTip": "lab3\\Entities\\Product.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T22:01:31.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\labs\\lab3\\lab3\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "lab3\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\labs\\lab3\\lab3\\Entities\\Order.cs",
+              "RelativeToolTip": "lab3\\Entities\\Order.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T22:01:18.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\labs\\lab3\\lab3\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "lab3\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\labs\\lab3\\lab3\\Entities\\Customer.cs",
+              "RelativeToolTip": "lab3\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T22:01:08.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\labs\\lab3\\lab3\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "lab3\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\labs\\lab3\\lab3\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "lab3\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T22:00:17.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\labs\\lab3\\lab3\\Program.cs",
+              "RelativeDocumentMoniker": "lab3\\Program.cs",
+              "ToolTip": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\labs\\lab3\\lab3\\Program.cs",
+              "RelativeToolTip": "lab3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T21:51:21.998Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

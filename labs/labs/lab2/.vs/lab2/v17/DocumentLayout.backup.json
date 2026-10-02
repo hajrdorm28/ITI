@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\labs\\lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E881153-D048-49DE-98A8-3E7D5B4FFBE0}|lab2\\lab2.csproj|c:\\users\\tasni\\onedrive\\documents\\programming\\vs\\.net\\ef\\labs\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E881153-D048-49DE-98A8-3E7D5B4FFBE0}|lab2\\lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E8805C-B47C-A9B2-05AA-1B4121FD32A4}|..\\..\\Sessions\\EFDay02\\Infra\\Infra.csproj|c:\\users\\tasni\\onedrive\\documents\\programming\\vs\\.net\\ef\\sessions\\efday02\\infra\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E8805C-B47C-A9B2-05AA-1B4121FD32A4}|..\\..\\Sessions\\EFDay02\\Infra\\Infra.csproj|c:\\users\\tasni\\onedrive\\documents\\programming\\vs\\.net\\ef\\sessions\\efday02\\infra\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E8805C-B47C-A9B2-05AA-1B4121FD32A4}|..\\..\\Sessions\\EFDay02\\Infra\\Infra.csproj|c:\\users\\tasni\\onedrive\\documents\\programming\\vs\\.net\\ef\\sessions\\efday02\\infra\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E8805C-B47C-A9B2-05AA-1B4121FD32A4}|..\\..\\Sessions\\EFDay02\\Infra\\Infra.csproj|c:\\users\\tasni\\onedrive\\documents\\programming\\vs\\.net\\ef\\sessions\\efday02\\infra\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E8805C-B47C-A9B2-05AA-1B4121FD32A4}|..\\..\\Sessions\\EFDay02\\Infra\\Infra.csproj|c:\\users\\tasni\\onedrive\\documents\\programming\\vs\\.net\\ef\\sessions\\efday02\\infra\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E8805C-B47C-A9B2-05AA-1B4121FD32A4}|..\\..\\Sessions\\EFDay02\\Infra\\Infra.csproj|c:\\users\\tasni\\onedrive\\documents\\programming\\vs\\.net\\ef\\sessions\\efday02\\infra\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E8805C-B47C-A9B2-05AA-1B4121FD32A4}|..\\..\\Sessions\\EFDay02\\Infra\\Infra.csproj|c:\\users\\tasni\\onedrive\\documents\\programming\\vs\\.net\\ef\\sessions\\efday02\\infra\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E8805C-B47C-A9B2-05AA-1B4121FD32A4}|..\\..\\Sessions\\EFDay02\\Infra\\Infra.csproj|c:\\users\\tasni\\onedrive\\documents\\programming\\vs\\.net\\ef\\sessions\\efday02\\infra\\repositories\\customerrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E8805C-B47C-A9B2-05AA-1B4121FD32A4}|..\\..\\Sessions\\EFDay02\\Infra\\Infra.csproj|c:\\users\\tasni\\onedrive\\documents\\programming\\vs\\.net\\ef\\sessions\\efday02\\infra\\repositories\\orderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\Sessions\\EFDay02\\Infra\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\Sessions\\EFDay02\\Infra\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\Sessions\\EFDay02\\Infra\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "..\\..\\Sessions\\EFDay02\\Infra\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:21:32.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\Sessions\\EFDay02\\Infra\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "..\\..\\Sessions\\EFDay02\\Infra\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\Sessions\\EFDay02\\Infra\\Entities\\Product.cs",
+              "RelativeToolTip": "..\\..\\Sessions\\EFDay02\\Infra\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:21:30.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\Sessions\\EFDay02\\Infra\\Repositories\\OrderItemRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\Sessions\\EFDay02\\Infra\\Repositories\\OrderItemRepository.cs",
+              "ToolTip": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\Sessions\\EFDay02\\Infra\\Repositories\\OrderItemRepository.cs",
+              "RelativeToolTip": "..\\..\\Sessions\\EFDay02\\Infra\\Repositories\\OrderItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:21:22.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\Sessions\\EFDay02\\Infra\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "..\\..\\Sessions\\EFDay02\\Infra\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\Sessions\\EFDay02\\Infra\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "..\\..\\Sessions\\EFDay02\\Infra\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:21:29.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\Sessions\\EFDay02\\Infra\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\Sessions\\EFDay02\\Infra\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\Sessions\\EFDay02\\Infra\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "..\\..\\Sessions\\EFDay02\\Infra\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:21:28.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\Sessions\\EFDay02\\Infra\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "..\\..\\Sessions\\EFDay02\\Infra\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\Sessions\\EFDay02\\Infra\\Entities\\Order.cs",
+              "RelativeToolTip": "..\\..\\Sessions\\EFDay02\\Infra\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:21:20.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerRespository.cs",
+              "DocumentMoniker": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\Sessions\\EFDay02\\Infra\\Repositories\\CustomerRespository.cs",
+              "RelativeDocumentMoniker": "..\\..\\Sessions\\EFDay02\\Infra\\Repositories\\CustomerRespository.cs",
+              "ToolTip": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\Sessions\\EFDay02\\Infra\\Repositories\\CustomerRespository.cs",
+              "RelativeToolTip": "..\\..\\Sessions\\EFDay02\\Infra\\Repositories\\CustomerRespository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:08:31.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\Sessions\\EFDay02\\Infra\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "..\\..\\Sessions\\EFDay02\\Infra\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\Sessions\\EFDay02\\Infra\\Entities\\Customer.cs",
+              "RelativeToolTip": "..\\..\\Sessions\\EFDay02\\Infra\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:08:19.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\Sessions\\EFDay02\\Infra\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\Sessions\\EFDay02\\Infra\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\Sessions\\EFDay02\\Infra\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "..\\..\\Sessions\\EFDay02\\Infra\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:21:23.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\labs\\lab2\\lab2\\Program.cs",
+              "RelativeDocumentMoniker": "lab2\\Program.cs",
+              "ToolTip": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\EF\\labs\\lab2\\lab2\\Program.cs",
+              "RelativeToolTip": "lab2\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T10:52:58.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

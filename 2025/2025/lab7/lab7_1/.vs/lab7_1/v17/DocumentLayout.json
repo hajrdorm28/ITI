@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\iti c# 2025\\lab7\\lab7_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E5282E0-7EAD-4D91-9F4E-6E98A1052F1E}|lab7_1\\lab7_1.csproj|c:\\users\\tasni\\onedrive\\documents\\programming\\vs\\.net\\iti c# 2025\\lab7\\lab7_1\\lab7_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E5282E0-7EAD-4D91-9F4E-6E98A1052F1E}|lab7_1\\lab7_1.csproj|solutionrelative:lab7_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E5282E0-7EAD-4D91-9F4E-6E98A1052F1E}|lab7_1\\lab7_1.csproj|c:\\users\\tasni\\onedrive\\documents\\programming\\vs\\.net\\iti c# 2025\\lab7\\lab7_1\\lab7_1\\dynamicarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E5282E0-7EAD-4D91-9F4E-6E98A1052F1E}|lab7_1\\lab7_1.csproj|solutionrelative:lab7_1\\dynamicarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DynamicArray.cs",
+              "DocumentMoniker": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\iti c# 2025\\lab7\\lab7_1\\lab7_1\\DynamicArray.cs",
+              "RelativeDocumentMoniker": "lab7_1\\DynamicArray.cs",
+              "ToolTip": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\iti c# 2025\\lab7\\lab7_1\\lab7_1\\DynamicArray.cs",
+              "RelativeToolTip": "lab7_1\\DynamicArray.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T11:10:55.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\iti c# 2025\\lab7\\lab7_1\\lab7_1\\Program.cs",
+              "RelativeDocumentMoniker": "lab7_1\\Program.cs",
+              "ToolTip": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\iti c# 2025\\lab7\\lab7_1\\lab7_1\\Program.cs",
+              "RelativeToolTip": "lab7_1\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T11:08:53.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

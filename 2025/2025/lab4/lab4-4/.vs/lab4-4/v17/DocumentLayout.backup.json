@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\iti c#\\lab4-4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07961807-8E03-4B63-A9AF-345CD27267EC}|lab4-4\\lab4-4.csproj|c:\\users\\tasni\\onedrive\\documents\\programming\\vs\\.net\\iti c#\\lab4-4\\lab4-4\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07961807-8E03-4B63-A9AF-345CD27267EC}|lab4-4\\lab4-4.csproj|solutionrelative:lab4-4\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07961807-8E03-4B63-A9AF-345CD27267EC}|lab4-4\\lab4-4.csproj|c:\\users\\tasni\\onedrive\\documents\\programming\\vs\\.net\\iti c#\\lab4-4\\lab4-4\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07961807-8E03-4B63-A9AF-345CD27267EC}|lab4-4\\lab4-4.csproj|solutionrelative:lab4-4\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07961807-8E03-4B63-A9AF-345CD27267EC}|lab4-4\\lab4-4.csproj|c:\\users\\tasni\\onedrive\\documents\\programming\\vs\\.net\\iti c#\\lab4-4\\lab4-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07961807-8E03-4B63-A9AF-345CD27267EC}|lab4-4\\lab4-4.csproj|solutionrelative:lab4-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\iti c#\\lab4-4\\lab4-4\\Movie.cs",
+              "RelativeDocumentMoniker": "lab4-4\\Movie.cs",
+              "ToolTip": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\iti c#\\lab4-4\\lab4-4\\Movie.cs",
+              "RelativeToolTip": "lab4-4\\Movie.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T13:29:19.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\iti c#\\lab4-4\\lab4-4\\Genre.cs",
+              "RelativeDocumentMoniker": "lab4-4\\Genre.cs",
+              "ToolTip": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\iti c#\\lab4-4\\lab4-4\\Genre.cs",
+              "RelativeToolTip": "lab4-4\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T13:29:02.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\iti c#\\lab4-4\\lab4-4\\Program.cs",
+              "RelativeDocumentMoniker": "lab4-4\\Program.cs",
+              "ToolTip": "C:\\Users\\Tasni\\OneDrive\\Documents\\Programming\\VS\\.net\\iti c#\\lab4-4\\lab4-4\\Program.cs",
+              "RelativeToolTip": "lab4-4\\Program.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAowGwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T13:13:07.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

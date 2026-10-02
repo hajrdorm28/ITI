@@ -1,0 +1,42 @@
+﻿@model Department
+
+@{
+    ViewData["Title"] = Model.DepartmentName;
+}
+
+<h2>@Model.DepartmentName</h2>
+
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>Employee Id</th>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Salary</th>
+            <th>Job Title</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.Employees != null && Model.Employees.Any())
+        {
+            @foreach (var employee in Model.Employees)
+            {
+                <tr>
+                    <td>@employee.Id</td>
+                    <td>@employee.Name</td>
+                    <td>@employee.Age</td>
+                    <td>@employee.Salary.ToString("C")</td>
+                    <td>@employee.JobTitle</td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="5" class="text-center">No employees in this department.</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-controller="Department" asp-action="Index" class="btn btn-secondary">Back to Departments</a>
